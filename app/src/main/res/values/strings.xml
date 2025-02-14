@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="task_name">Task Name</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="delete_task">Delete task</string>
+    <string name="task_title">Task Title</string>
+    <string name="delete">Delete</string>
+    <string name="task_manager">Task Manager</string>
+    <string name="enter_a_task">Enter a task...</string>
+    <string name="back">Back</string>
+    <string name="about_this_app">About This App</string>
+    <string name="this_is_a_task_manager_app_developed_by">This is a Task Manager app developed by:</string>
+    <string name="rajan_subedi_n_monika_thapa_n_sandesh_lamsal">• Rajan Subedi\n• Monika Aryal\n• Sandesh Lamsal</string>
+    <string name="about">About</string>
+</resources>
